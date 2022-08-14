@@ -5,3 +5,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoobraga&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<i class="devicon-css3-plain colored"></i>  
+<i class="devicon-html5-plain colored"></i>
+          
+          
+          
