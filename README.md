@@ -6,7 +6,7 @@
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoobraga&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-    #### - 💻 Languages
+  - 💻 Linguagens 
   <div style="display: inline_block"><br>
   <img align="center" alt="Enzo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
